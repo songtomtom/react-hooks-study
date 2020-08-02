@@ -1,1 +1,1 @@
-export { useInput } from './useTabs';
+export { useTabs } from './useTabs';

@@ -1,1 +1,1 @@
-export { useInput } from './useClick';
+export { useTitle } from './useTitle';
